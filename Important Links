@@ -3,3 +3,8 @@
 
 2) Installing Kubernetes on Google Clusgter :
     https://devopscube.com/setup-kubernetes-cluster-google-cloud/
+
+3) Installing HELM :
+https://docs.helm.sh/using_helm/
+    -- resolving error for helm
+    https://stackoverflow.com/questions/46672523/helm-list-cannot-list-configmaps-in-the-namespace-kube-system
