@@ -8,3 +8,8 @@
 https://docs.helm.sh/using_helm/
     -- resolving error for helm
     https://stackoverflow.com/questions/46672523/helm-list-cannot-list-configmaps-in-the-namespace-kube-system
+    
+4) Exposing services using ingress for bare-metal kubernetes deployment :
+https://medium.com/@rothgar/exposing-services-using-ingress-with-on-prem-kubernetes-clusters-f413d87b6d34
+
+
